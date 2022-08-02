@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://ibb.co/vzf15Yv"><img src="https://i.ibb.co/C04Bd2s/Captura-de-Tela-rea-de-Sele-o-20220802112701.png" alt="Captura-de-Tela-rea-de-Sele-o-20220802112701" border="0"></a>
+<a href="https://ibb.co/vzf15Yv"><img src="https://i.ibb.co/C04Bd2s/Captura-de-Tela-rea-de-Sele-o-20220802112701.png" alt="Captura-de-Tela-rea-de-Sele-o-20220802112701" border="0" width="100%"></a>
 <p>ToDo List. A sua ferramenta de organização e priorização de tarefas.</p>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>
